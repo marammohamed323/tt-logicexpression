@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project works by designing an AND gate for A and B and an OR gate C.  I designed a circuit diagram after writing the expression for F=(A*B)+C.
 
 ## How to test
 
-Explain how to use your project
+I tested to see whether if the output is 1 or 0 by noticing whether if the switch turns on or off.  If the output is 1, then the switch turns on and if the output is 0, the switch turns off.
 
 ## External hardware
 
