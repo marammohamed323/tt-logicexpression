@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     401336289911197697      # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        (A*B)+C      # Project title
+  title:        (A+B)*C      # Project title
   author:       Maram Mohamed      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  Implementation of (A*B)+C      # One line description of what your project does
