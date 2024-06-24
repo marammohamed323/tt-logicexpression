@@ -17,4 +17,4 @@ I tested to see whether if the output is 1 or 0 by noticing whether if the switc
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+The hardware that I used for this project is the Wokwi Template.  I also use tiny tapeout to design a circuit for the logic expression that is given to me.
